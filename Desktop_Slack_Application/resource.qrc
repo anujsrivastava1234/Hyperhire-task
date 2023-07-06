@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resources/Aa.png</file>
+        <file>resources/clip.png</file>
+        <file>resources/dropdown.png</file>
+        <file>resources/emoji.png</file>
+        <file>resources/Group (5).png</file>
+        <file>resources/left.png</file>
+        <file>resources/plus.png</file>
+        <file>resources/question.png</file>
+        <file>resources/quick.png</file>
+        <file>resources/search.png</file>
+        <file>resources/send.png</file>
+        <file>resources/Vector (1).png</file>
+        <file>resources/Vector.png</file>
+        <file>resources/right.png</file>
+        <file>resources/addUSer.png</file>
+        <file>resources/Frame.png</file>
+        <file>resources/i.png</file>
+        <file>resources/Star.png</file>
+        <file>resources/📱 Channel for number 6.png</file>
+        <file>resources/Rectangle (1).png</file>
+        <file>resources/Rectangle (2).png</file>
+        <file>resources/Rectangle.png</file>
+        <file>resources/Group (1).png</file>
+        <file>resources/sidenav.png</file>
+        <file>resources/time.png</file>
+        <file>resources/icons8-bold-48.png</file>
+        <file>resources/icons8-indent-48.png</file>
+        <file>resources/icons8-italic-48.png</file>
+        <file>resources/icons8-link-48.png</file>
+        <file>resources/icons8-list-48 (1).png</file>
+        <file>resources/icons8-list-48.png</file>
+        <file>resources/icons8-strikethrough-48.png</file>
+        <file>resources/Image.png</file>
+    </qresource>
+</RCC>
